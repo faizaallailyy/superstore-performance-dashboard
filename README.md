@@ -59,13 +59,13 @@ The dashboard consists of three main sections:
 ---
 
 ## 📁 Repository Structure
+
+```
 ├── README.md
-├── data/
-│   └── Sample - Superstore.csv
-├── dashboard/
-│   └── Superstore Dashboard.pdf
-├── analysis/
-│   └── Superstore Performance Analysis.pdf
+└── Sample - Superstore.csv
+└── Superstore Performance Dashboard.pdf
+└── Superstore Performance Analysis.pdf
+```
 
 ---
 
